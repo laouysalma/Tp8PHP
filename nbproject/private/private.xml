@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/docs/test_security.md</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Security/Auth.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Core/Router.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Core/Response.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Dao/AdminDao.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Core/Request.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Controller/BaseController.php.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/views/auth/login.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/views/etudiant/show.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Dao/EtudiantDao.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Controller/EtudiantController.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/views/etudiant/edit.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Security/Csrf.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Security/Middleware.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/views/layout.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Dao/DBConnection.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/public/index.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Dao/FiliereDao.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Security/Sanitizer.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/docs/rapport_lab6.md</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/views/etudiant/create.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Container/AppFactory.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/views/etudiant/index.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Security/Validator.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Controller/AuthController.php</file>
+            <file>file:/C:/xampp/htdocs/Tp8PHP/src/Dao/Logger.php</file>
+        </group>
+    </open-files>
+</project-private>
